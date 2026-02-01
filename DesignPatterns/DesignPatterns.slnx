@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/A - Creational/" />
+  <Folder Name="/A - Creational/01 - Singleton/">
+    <Project Path="Singleton/Singleton.csproj" Id="f8f1d530-23d4-4890-a3fd-e980b338026e" />
+  </Folder>
+  <Folder Name="/B - Structral/" />
+  <Folder Name="/C - Behavioral/" />
+</Solution>
