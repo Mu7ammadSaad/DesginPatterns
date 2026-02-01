@@ -5,4 +5,7 @@
   </Folder>
   <Folder Name="/B - Structral/" />
   <Folder Name="/C - Behavioral/" />
+  <Folder Name="/C - Behavioral/01 - Strategy/">
+    <Project Path="Strategy/Strategy.csproj" Id="261b98d5-267f-486d-b14b-cc4e8db65eb1" />
+  </Folder>
 </Solution>
